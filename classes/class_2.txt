@@ -16,3 +16,5 @@ Methods:
   CleanTable
   SetTable
   MoveTable
+  PunchInForShift
+  PunchOutForShift
