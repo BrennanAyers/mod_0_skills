@@ -1,0 +1,15 @@
+Class: Tables
+Attributes:
+  Color (string)
+  Shape (string)
+  StatusOfCleanliness (string)
+  Location (string)
+  NumberOfSeats (integer)
+  CurrentlyOccupied (boolean)
+
+Methods:
+  Clear
+  Clean
+  SetPlaces
+  Move
+  SeatDiners
