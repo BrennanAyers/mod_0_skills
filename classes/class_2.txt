@@ -1,0 +1,18 @@
+Class: Waitstaff
+Attributes:
+  FirstName (string)
+  LastName (string)
+  Birthdate (date)
+  ServerSection (integer)
+  WorkingCurrently (boolean)
+
+Methods:
+  SeatDiners
+  IntroduceSelf
+  PourWater
+  TakeOrders
+  ServeFood
+  ClearTable
+  CleanTable
+  SetTable
+  MoveTable
