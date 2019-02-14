@@ -1,0 +1,15 @@
+Class: Menus
+Attributes:
+  TypeOfMenu (string)
+  ItemDescriptions (string)
+  NumberOfItems (integer)
+  PriceOfItem (float)
+  IsSeasonallyAvailable (boolean)
+
+Methods:
+  AddItem
+  RemoveItem
+  ChangePrice
+  ModifyDescriptionOfItem
+  AddAvailability
+  RemoveAvailability
