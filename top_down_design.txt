@@ -1,0 +1,43 @@
+1. Go to restaurant
+  1a. Determine your current location
+  1b. Find restaurant through Google that is within a reasonable distance
+  1c. Determine best method of transport to restaurant
+  1d. Navigate to restaurant
+  1e. Enter restaurant
+  1f. Wait to be seated
+  1g. Be seated and provided menu
+2. Make order for food
+  2a. Open menu
+  2b. Peruse options
+  2c. Determine best order dependent on personal taste and price
+  2d. Wait for waitstaff to return to take your order
+3. Wait for food
+  3a. Make small talk with your table mate, if applicable
+  3b. Stay hydrated with provided water
+  3c. Don't go on your phone
+4. Eat food
+  4a. Locate utensils required to ingest food, fork/spoon/knife
+  4b. Place napkin on lap or within reach to ensure quick access
+  4c. Use required utensils to move food from plate/bowl to mouth
+  4d. Make sure food is in small pieces to avoid hazardous chewing
+  4e. Consume food in a polite manner, taking moments to enjoy the flavors
+5. Order dessert
+  5a. If not full, open the dessert menu, or original menu to dessert section, else go to step 7
+  5b. Peruse options
+  5c. Determine best order dependent on personal taste and price
+  5d. Wait for waitstaff to return to take your order
+6. Wait for dessert
+  6a. If dessert was ordered, proceed through next steps, else go to step 7
+  6a. Make small talk with your table mate, if applicable
+  6b. Stay hydrated with provided water
+  6c. Don't go on your phone
+7. Eat dessert
+  7a. If dessert was ordered, proceed through next steps, else go to step 7
+  7b. Locate utensils required to ingest dessert, fork/spoon/knife
+  7c. Place napkin on lap or within reach to ensure quick access
+  7d. Use required utensils to move food from plate/bowl to mouth
+  7e. Make sure dessert is in small pieces to avoid hazardous chewing
+  7f. Consume dessert in a polite manner, taking moments to enjoy the flavors
+8. Be full
+  8a. Determine stomach has enough sustenance
+  8b. Enjoy life
